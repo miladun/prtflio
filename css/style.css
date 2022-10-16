@@ -1,0 +1,71 @@
+/*main color #ff014f */
+/*secondary color #212428; */
+
+
+body {
+background-color: #212428;
+color: #ffffff;
+font-family: 'Montserrat', sans-serif;
+}
+/*common css*/
+.threeD-btn{
+    background-color: #212428;
+    color:#ff014f ;
+    border: none;
+    box-shadow:1px 2px 2px  rgb(255, 255, 255,0.5);
+    padding:15px 30px ;
+}
+.threeD-btn:hover{
+    background-color: black;
+}
+/*hero section css*/
+.hero-section{
+    padding: 100px 0px;
+
+}
+.hero-subtitle{
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ffffffbc;
+    margin-bottom: 20px;
+}
+.hero-red-text{
+    color: #ff014f;
+   
+}
+.hero-title{
+    font-weight: 700;
+    font-size: 60px;
+}
+.animated-text{
+    font-weight: 700;
+    font-size: 52px;
+}
+.hero-text{
+    margin-top: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: #ffffffbc;
+}
+.hero-icon-section{
+    margin-top: 120px;
+}
+.hero-icon-section p{
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ffffffbc;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.hero-icon-section a{
+    color: #ffffff;
+    padding: 15px 20px;
+    font-size: 20px;
+    background-color: #282c30;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    
+}
